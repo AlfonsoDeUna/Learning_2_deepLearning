@@ -9,13 +9,13 @@ Tengo alguno en mente de bioinformática pero son ideas todavía difíciles de i
 
 ## Progreso
 
-* implementación para reconocer imágenes con knn.
+* Implementación para reconocer imágenes con knn.
 * Red neuronal para reconocer números.
 
 
 
 ## Clases online
 
-[Stanford](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&ab_channel=AndrejKarpathy) 
-[MIT](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+* [Stanford](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&ab_channel=AndrejKarpathy) 
+* [MIT](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
